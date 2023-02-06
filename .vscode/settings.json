@@ -1,0 +1,22 @@
+{
+    
+       "workbench.colorTheme": "Winter is Coming (Dark Black)",
+        
+        "window.zoomLevel": -1,
+        "liveServer.settings.fullReload": true,
+        "liveServer.settings.useWebExt": true,
+        "liveServer.settings.useLocalIp": false,
+        "liveServer.settings.ChromeDebuggingAttachment": true,
+        "liveServer.settings.port": 5500,
+        "liveServer.settings.root": "/",
+        "liveServer.settings.AdvanceCustomBrowserCmdLine": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "liveServer.settings.CustomBrowser": "chrome",
+        
+        "testing.autoRun.delay": 500,
+        "files.autoSaveDelay": 500,
+        "files.autoSave": "off"
+        
+       
+        
+    
+}

@@ -1,0 +1,154 @@
+*{
+
+    margin: 0;
+    padding: 0;
+ 
+
+}
+body{
+    background-color: #b2e6e2;
+      
+    width: 100%;
+    height: 740px;
+}
+header{
+   
+   width: 100%;
+   height: 70px;
+   background-color: rgb(170, 171, 245);    
+}
+
+main{
+    
+    background-color: rgb(170, 171, 245);
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 85%;
+    
+}
+section{
+    width: 40%;
+    height: 90%;
+}
+.seccion1{
+    width: 70%;
+    
+}
+.area{
+    width: 80%;
+    height: 80%;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgba(239, 221, 224, 0.846);
+    font-size: 25px;
+    resize: none;
+
+    
+}
+
+.btn-encriptar, .btn-desencriptar{
+    width: 25%;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #b8f374;
+
+}
+.botones{
+    text-align: center;
+    margin-top: 20px;
+    font-size: large;
+
+}
+.seccion2{
+    width: 20%;
+    height: 530px;
+    background-color: rgba(239, 221, 224, 0.846);
+    border-radius: 20px;
+    margin-right: 20px;
+    box-sizing: border-box;
+    overflow: hidden;
+   
+    
+}
+
+
+.contenedor-munieco{
+    width: 100%;
+    height: 60%;
+    padding-top: 70px;
+    box-sizing: border-box;
+    overflow: auto;
+}
+.imagen{
+    width: 230px;
+    height: 230px;
+    padding: 0px;
+
+}
+.area2{
+    width: 90%;
+    height: 90%;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    background-color: rgba(239, 221, 224, 0.846);
+    font-size: 15px;
+    resize: none;
+    border: none;
+    box-sizing: border-box;
+}
+
+
+.mensaje{
+    width: 100%;
+    height: 20%;
+    text-align: center;
+
+}
+.parrafo{
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    padding: auto;
+    margin-top: 10px;
+}
+
+
+.resultado{
+    width: 100%;
+    height: 70%;
+    padding: 25px;
+    text-align: center;
+    box-sizing: border-box;
+   
+
+
+
+}
+.copiar{
+    width: 100%;
+    height: 20%;
+}
+.btn-copiar{
+    width: 25%;
+    height: 40px;
+    display: block;
+    margin: auto;
+
+}
+
+
+footer{
+    width: 100%;
+    height: 50px;
+    background-color: royalblue;
+    align-self: start;
+
+}
+.ocultar{
+    display: none;
+}
+
+
